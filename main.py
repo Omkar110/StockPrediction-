@@ -306,9 +306,9 @@ if st.checkbox("Forecast for selected interval"):
     st.write(forecast.tail())
     name = str(datetime.date.today())
     fore = forecast[-50:]
-    fore.to_csv(
-        "C:/Users/RUDRA/Desktop/pythonProject3/data/" + name
-    )
+ #  fore.to_csv(
+ #      "C:/Users/RUDRA/Desktop/pythonProject3/data/" + name
+  # )
     st.write(f"Forecast plot for {n_month} months")
     fig1 = plot_plotly(m, forecast)
     st.plotly_chart(fig1)
