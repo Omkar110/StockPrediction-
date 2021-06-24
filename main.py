@@ -278,7 +278,7 @@ from plotly import graph_objs as go
 
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
-if st.checkbox("Forecast for selected interval"):
+if st.checkbox("Forecast for next one month"):
     n_month = 1
     period = n_month * 31
 
