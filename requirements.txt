@@ -5,8 +5,6 @@ fbprophet==0.7.1
 yfinance==0.1.59
 nltk==3.6.2
 cufflinks==0.17.3
-twint>=2.0.0,<2.2.0
-https://github.com/twintproject/twint.git@origin/master#egg=twint
 matplotlib==3.4.2
 plotly==4.14.3
 beautifulsoup4==4.9.3
