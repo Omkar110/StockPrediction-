@@ -1,0 +1,31 @@
+AMZN,	Amazon.com,	amazon
+BRITANNIA.NS,	Britannia Industries Limited,	BritanniaIndLtd
+SHREECEM.NS,Shree Cement Limited.,  shreecementltd
+ONGC.NS,	Oil and Natural Gas Corporation Limited,ONGC_
+BAJAJFINSV.NS,	Bajaj Finserv Ltd., Bajaj_Finserv
+BAJFINANCE.NS,	Bajaj Finance Limited,  Bajaj_Finserv
+TATASTEEL.NS,	Tata Steel Limited, TataSteelLtd
+BAJAJ-AUTO.NS,	Bajaj Auto Limited, bajaj_ltd
+ITC.NS,	ITC Limited,    ITCCorpCom
+BHARTIARTL.NS,	Bharti Airtel Limited,  airtelindia
+TITAN.NS,	Titan Company Limited,  TitanCompanyLtd
+HEROMOTOCO.NS,Hero MotoCorp Limited,    HeroMotoCorp
+NESTLEIND.NS,Nestlé India Limited,  NESCAFEIndia
+FB,Facebook Inc.,  Facebook
+GOOGL,Alphabet Inc.,    Google
+CIPLA.NS,	Cipla Limited,  Cipla_Global
+RELIANCE.NS, Reliance Industries Limited,   flameoftruth
+ULTRACEMCO.NS,	UltraTech Cement Limited,   UltraTechCement
+KOTAKBANK.NS,	Kotak Mahindra Bank Limited,    KotakBankLtd
+HDFCLIFE.NS	,HDFC Life Insurance Company Limited,   HDFCLIFE
+TATACONSUM.NS	,Tata Consumer Products Limited, TataConsumer
+INDUSINDBK.NS,	IndusInd Bank Limited,  MyIndusIndBank
+MARUTI.NS,Maruti Suzuki India Limited, MSArenaOfficial
+COALINDIA.NS,	Coal India Limited, CoalIndiaHQ
+TECHM.NS,	Tech Mahindra Limited,  tech_mahindra
+GRASIM.NS,	Grasim Industries Limited,  GrasimInd
+TCS.NS	,Tata Consultancy Services Limited, TCS
+ICICIBANK.NS,	ICICI Bank Limited, ICICIBank
+LT.NS,	Larsen & Toubro Limited,    LTI_Global
+MM.NS,	Mahindra & Mahindra,    anandmahindra
+WIPRO.NS,	Wipro Limited,  Wipro
