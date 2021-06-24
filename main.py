@@ -6,7 +6,9 @@ import nltk_utils
 import matplotlib.pyplot as plt
 import webbrowser
 import datetime
-
+import subprocess
+cmd = ['pip3','install','--user','--upgrade','e','git+https://github.com/twintproject/twint.git@origin/master#egg=twint']
+subprocess.run(cmd)
 st.set_page_config(layout="wide")
 # App title
 st.markdown(

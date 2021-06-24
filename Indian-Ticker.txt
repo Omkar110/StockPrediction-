@@ -1,7 +1,7 @@
-AMZN,	Amazon.com,	amazon
-BRITANNIA.NS,	Britannia Industries Limited,	BritanniaIndLtd
-SHREECEM.NS,Shree Cement Limited.,  shreecementltd
-ONGC.NS,	Oil and Natural Gas Corporation Limited,ONGC_
+AMZN, Amazon.com,	amazon
+BRITANNIA.NS, Britannia Industries Limited,	BritanniaIndLtd
+SHREECEM.NS,    Shree Cement Limited.,  shreecementltd
+ONGC.NS,    Oil and Natural Gas Corporation Limited,ONGC_
 BAJAJFINSV.NS,	Bajaj Finserv Ltd., Bajaj_Finserv
 BAJFINANCE.NS,	Bajaj Finance Limited,  Bajaj_Finserv
 TATASTEEL.NS,	Tata Steel Limited, TataSteelLtd
